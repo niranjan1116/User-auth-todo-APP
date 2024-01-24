@@ -4,7 +4,8 @@
         Components:
             1.Signup Component: Used for signing up new users.
             2.Login Component: Used for user login.
-            3.Main Component: Displays the todo list and provides a logout feature.
+            3.Main Component: displays the todo list, incorporating added features such as a calendar and the ability to update the list.          
+                              Additionally, it provides a logout feature."
         
         App.js:
           Imports and uses the three main components (Signup, Login, Main) - Likely contains routing logic or conditional rendering to switch between signup, login, and main components.
